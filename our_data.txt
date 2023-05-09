@@ -1,0 +1,5 @@
+Name, Email, Phone number, City, Gender
+Emmanuel C, emanstonepro@gmail.com, 08175791530, Enugu city, Male
+Harry M, harrypromise5@gmail.com, 08081828604, Owerri city, Male
+Abiodun O, ogunbanwoabiodun@gmail.com, 08154352749, Lagos city, Male
+Grace U, graceumeayo@gmail.com, 08062134744, Lagos city, Female
